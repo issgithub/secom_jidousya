@@ -4,6 +4,8 @@
     <Line Type=SOD SequnceNum=1>
       <Item s=09>
       </Item>
+      <Item s=10>
+      </Item>
     </Line>
   </Transaction>
 </POSLOG>

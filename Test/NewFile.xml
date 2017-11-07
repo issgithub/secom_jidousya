@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <POSLOG>
-<<<<<<< HEAD
   <Transaction>
     <Line Type=SOD SequnceNum=1>
-<<<<<<< HEAD
       <Item s=02>
         <Sales>
         </Sales>

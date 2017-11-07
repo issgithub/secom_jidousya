@@ -2,7 +2,7 @@
 <POSLOG>
   <Transaction>
     <Line Type=SOD SequnceNum=1>
-      <Item s=02>
+      <Item s=03>
         <Sales>
         </Sales>
       </Item>

@@ -4,6 +4,8 @@
   <Transaction>
     <Line Type=SOD SequnceNum=1>
       <Item s=01>
+        <Sales>
+        </Sales>
       </Item>
     </Line>
   </Transaction>

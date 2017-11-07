@@ -3,7 +3,7 @@
 <<<<<<< HEAD
   <Transaction>
     <Line Type=SOD SequnceNum=1>
-      <Item>
+      <Item s=01>
       </Item>
     </Line>
   </Transaction>

@@ -2,8 +2,6 @@
 <POSLOG>
   <Transaction>
     <Line Type=SOD SequnceNum=1>
-      <Item s=03>
-      </Item>
     </Line>
   </Transaction>
 </POSLOG>
